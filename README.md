@@ -1,6 +1,6 @@
 # Video-To-Audio-Converter
 
-
+Can be packed to executable files using pyinstaller.
 
 ## Screenshots
 
